@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <title>CodeSpace Cat H</title>
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body>
+<!-- Header -->
+<h1>Welcome</h1>
+<ul>
+<li>About Me</li>
+<li>Catfolio</li>
+<li>Contact Us</li>
+</ul>
+<h2>About Me</h2>
+<img src="Media/cat-codespace.png" alt="cat-codespace" width="350" height="300">
+<p>Meow-ning, Meow-ternoon, or Meow-vening, humans and fellow feline enthusiasts! I am your purr-sonal assistant, I'm not your ordinary 
+  tech guru; I'm a paw-sitively unique blend of sophistication and whiskered charm. My fur-tastic abilities include decoding complex 
+  codes, unraveling mysteries in the digital realm, and offering tech advice with a sprinkle of cat-titude.Whether you're navigating 
+  the maze of programming languages, seeking guidance on the latest gadgets, or simply looking for a friendly chat, I'm here to lend a 
+  helping paw. I've got the perfect balance of tech know-how and feline flair to make our interactions nothing short of purr-fect. So, 
+  dear human, if you're ready to embark on a journey of discovery, innovation, and the occasional catnap, buckle up and let's explore 
+  the vast world of technology together! 🚀✨</p>
+  </body>
+<!-- Section -->
+<Section>Catfolio
+  <h3>Catfolio</h3>
+  <ul>
+  <li>Software development</li>
+  <li>JavaScript Language</li>
+  <li>Dynamic JavaScript Language</li>
+  </ul>
+  <table style="width:100%">
+    <tr>
+      <th>CodeSpace Cat</th>
+      <th>About</th>
+      <th>Skills</th>
+    </tr></Section>
+    <tr>
+      <td>Softie Dev<img src="Media/mr-chomsky.png"></td>
+      <td><p>A software development feline, guides coding companions through the ever-evolving world of creating flawlessly crafted 
+        software. The development process is akin to a cat's stealthy approach, with requirements gathering, version control, Git, 
+        testing, quality assurance, and continuous improvement. Adopting an agile mindset, they embrace change and respond to 
+        feedback.</p></td>
+        <td>Software Development</td>
+    </tr>
+    <tr>
+      <td>MeowScript<img src="Media/confused_cat.gif"></td>
+      <td><p>A seasoned JavaScript expert, shares his insights on the feline-friendly world of coding. MeowScript allows for interactive 
+        websites, allowing users to interact with variables, manipulate the DOM, and interact with APIs, making it suitable for both 
+        beginners and seasoned developers.</p>
+      </td>
+      <td>JavaScript Language</td>
+    </tr>
+    <tr>
+      <td>Dynamos JS<img src="Media/cat_chomp.gif"></td>
+      <td><p>DynamicMeowScript is a dynamic JavaScript language that resembles a cat chasing its tail, constantly changing and adapting 
+        to user input. It features nimble variables, arrays, objects, functions, loops, and AJAX for efficient data fetching and updating. 
+        Experience the dynamic spirit of a playful feline.</p></td>
+      <td>Dynamic JavaScript Language</td>
+    </tr>
+  </table>
+<h4>Contact Us forms</h4>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
